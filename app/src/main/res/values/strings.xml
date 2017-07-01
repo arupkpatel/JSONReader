@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">JSONReader</string>
+    <string-array name="test">
+        <item>Toppings</item>
+        <item>boooooooom</item>
+        <item>booooooom</item>
+        <item>boooooom</item>
+        <item>booooom</item>
+        <item>boooom</item>
+    </string-array>
+</resources>
